@@ -1,8 +1,1 @@
 .ipynb_checkpoints
-catboost_training.json
-learn_error.tsv
-meta.tsv
-time_left.tsv
-learn/events.out.tfevents
-test_error.tsv
-test/events.out.tfevents
